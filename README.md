@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Jr. Web Developer
 --------------------
 
-I love my mind
-
-* 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mehmet.aydar07@gmail.com](mailto:mehmet.aydar07@gmail.com)
-* 🧠  I'm learning PHP
 
 ### Socials
 
